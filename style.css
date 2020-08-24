@@ -73,8 +73,10 @@ nav a{
   color: black;
 }
 .right{
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
+  margin: 0px 100px
 }
 .right-undertop{
   display: flex;
@@ -82,6 +84,7 @@ nav a{
   padding-top: 20px;
   padding-bottom: 20px;
   justify-content: space-between;
+  border-bottom: 1px solid black;
 }
 .right-undertop h4{
   text-align: center;
@@ -120,6 +123,7 @@ nav a{
 } 
 #footer-menu ul li a{
   text-decoration: none ;
+  color: white;
 }
 .footer-undermenu{
   display: flex;
@@ -134,10 +138,14 @@ nav a{
 .footer-undermenu ul{
   list-style: none;
 }
+.footer-undermenu ul li a{
+  text-decoration: none;
+}
 .content{
   display: flex;
   flex-direction: row;
   justify-content: center;
+  flex-grow: 1;
 }
 .content-1{
   padding-top: 5px;
@@ -147,4 +155,10 @@ nav a{
   background-color:	#7AC5CD;
   color: black;
   height: 80px;
+}
+.list-1{
+  color: white;
+}
+.list-2{
+  color: black;
 }
