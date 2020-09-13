@@ -4,7 +4,7 @@
 <head>
     <meta charset='utf-8'>
     <title>Giày Dép Thương Hiệu Nam Nữ Cao Cấp</title>
-    <link rel="stylesheet" href="Boot.css">
+    <link rel="stylesheet" href="css/Boot.css">
 </head>
 
 <body style="font-family: Arial, Helvetica, sans-serif;">
