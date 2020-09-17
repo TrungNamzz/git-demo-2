@@ -3,6 +3,12 @@
     padding: 0;
     display: flexbox;
 }
+img{
+  max-width: 100%;
+}
+a{
+  color: black;
+}
 #toolbar{
     background-color:black;
     padding: auto;
@@ -162,3 +168,18 @@ nav a{
 .list-2{
   color: black;
 }
+
+#footer-menu ul li {
+  margin-right: 50px;
+}
+
+#bgr{
+  background-color: blanchedalmond;
+}
+ .product-item{
+   border: 1px solid black;
+   padding: 20px;
+   margin-right: 5px;
+ }
+
+ 

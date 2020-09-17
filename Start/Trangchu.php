@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset='utf-8'>
+    <title>Giày Dép Thương Hiệu Nam Nữ Cao Cấp</title>
+    <link rel="stylesheet" href="css/Trangchu.css">
+</head>
+
+<body style="font-family: Arial, Helvetica, sans-serif;">
+    <div id="toolbar">
+        <div class="search-box">
+            <input type="text" placeholder="Tên sản phẩm..." />
+            <div><img src="Image/img Home/images.png" style="height: 20px; width: 20px;"></div>
+        </div>
+    </div>
+    <div id="header">
+        <div><img src="Image/img Home/logo giày.jpg"></div>
+        <div><img src="Image/img Home/logo giay 2.jpg"></div>
+        <div><img src="Image/img Home/logo-giay-dep-23.jpg"></div>
+        <div><img src="Image/img Home/jordan.jfif"></div>
+    </div>
+    <nav style="text-decoration: none;">
+        <a href="">TRANG CHỦ</a>
+        <a href="">SNEAKER</a>
+        <a href="">BOOTS</a>
+        <a href="">CONVERSE</a>
+        <a href="">JORDAN</a>
+        <a href="">ĐĂNG NHẬP</a>
+        <a href="">ĐĂNG XUẤT</a>
+    </nav>
+    <div id="thanhQC">
+        <img src="Image/img Home/giay.jpg">
+    </div>
+
+    <div id="main">
+
+        <div class="left">
+            <ul>
+                <h2><a href="">Loại Giày</a></h2>
+                <li><a href="">Sneaker</a></li>
+                <li><a href="">Boots</a></li>
+                <li><a href="">Bitis Hunter</a></li>
+                <li><a href="">Converse</a></li>
+                <li><a href="">Jordan</a></li>
+            </ul>
+        </div>
+    
+
+        <div class="right">
+            <h2 style="padding-top: 10px; border-bottom: black solid 1px; padding-bottom: 15px;">Sản Phẩm Nổi Bật</h2>
+            <div class="right-undertop product-list card-deck">
+                <div class="product-item card text-center"><a href="#"><img src="Image/img Home/sneaker.jfif" style="padding-bottom: 10px;"></a>
+                    <h4><a href="#">Alexander MC Queen Rep</a></h4>
+                    <p>Price: 600,000 VND</p>
+                </div>
+                <div class="product-item"><a href="#"><img src="Image/img Home/sneaker2.jfif" style="padding-bottom: 10px;"></a>
+                    <h4><a href="#">Sneaker Nam 2020 MS 100</a></h4>
+                    <p>Price: 400,000 VND</p>
+                </div>
+                <div class="product-item"><a href="#"><img src="Image/img Home/sneaker nu.jfif" style="padding-bottom: 10px;"></a>
+                    <h4><a href="#">Sneaker Nữ Đế Độn MS 124</a></h4>
+                    <p>Price: 380,000 VND</p>
+                </div>
+            </div>
+
+            <div class="right-undertop">
+                <div><a href="#"><img src="Image/img Home/gucci.jfif" style="padding-bottom: 60px; "></a>
+                    <h4><a href="#">Gucci Môi Rep 1:1</a></h4>
+                    <p>Price: 800,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/yeeze 350.jfif" style="padding-bottom: 10px;"></a>
+                    <h4><a href="#">Yeeze 350 SF</a></h4>
+                    <p>Price: 500,000 VND</p>
+                </div>
+                <div><a href=""><img src="Image/img Home/human race.jfif" style="padding-bottom: 45px;"></a>
+                    <h4><a href="">Human Race Real</a></h4>
+                    <p>Price: 3,000,000 VND</p>
+                </div>
+            </div>
+
+            <div class="right-undertop">
+                <div><a href="#"><img src="Image/img Home/nike air jd 1 offwhite blue.jfif"></a>
+                    <h4><a href="#">Nike Air Jordan OffWhite Blue</a></h4>
+                    <p>Price: 1,100,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/nike air jd 1.jfif"></a>
+                    <h4><a href="#">Nike Air Jordan 1</a></h4>
+                    <p>Price: 1,500,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/nike jd 1 offwhite chicago.jfif"></a>
+                    <h4><a href="#">Nike Air Jordan OffWhite Chicago</a></h4>
+                    <p>Price: 2,000,000 VND</p>
+                </div>
+            </div>
+
+            <div class="right-undertop">
+                <div><a href="#"><img src="Image/img Home/converse.jfif" style="padding-top: 40px;"></a>
+                    <h4><a href="#">Converse Cao Cổ Rep 1:1</a></h4>
+                    <p>Price: 1,200,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/converse chuck taylor.jfif"></a>
+                    <h4><a href="#">Converse Chuck Taylor</a></h4>
+                    <p>Price: 900,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/converse chuck taylor star.jfif"></a>
+                    <h4><a href="#">Converse Chuck Taylor AllStar</a></h4>
+                    <p>Price: 1,000,000 VND</p>
+                </div>
+            </div>
+
+            <div class="right-undertop">
+                <div><a href="#"><img src="Image/img Home/boot cổ thấp.jfif"></a>
+                    <h4><a href="#">Giày Boot Cổ Thấp</a></h4>
+                    <p>Price: 1,500,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/chelsea boot.jfif"></a>
+                    <h4><a href="#">Chelsea Boot Nam</a></h4>
+                    <p>Price: 1,800,000 VND</p>
+                </div>
+                <div><a href="#"><img src="Image/img Home/giày boot viền lông.jfif"></a>
+                    <h4><a href="#">Boot Viền Lông Nữ</a></h4>
+                    <p>Price: 2,200,000 VND</p>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+    <div id="footer">
+
+        <div id="footer-menu">
+            <ul>
+                <li><a>TRANG CHỦ</a></li>
+                <li><a>SẢN PHẨM VÀ DỊCH VỤ</a></li>
+                <li><a>ĐIỀU KHOẢN MUA BÁN</a></li>
+                <li><a>HỎI ĐÁP</a></li>
+                <li><a>GIỚI THIỆU</a></li>
+                <li><a>TIN TỨC</a></li>
+                <li><a>LIÊN HỆ</a></li>
+            </ul>
+        </div>
+        <div id="bgr">
+            <div class="footer-undermenu">
+
+                <div>
+                    <h3>Chính sách</h3>
+                    <ul>
+                        <li><a href="">Chăm sóc khách hàng</a></li>
+                        <li><a href="">Hình thức đặt hàng</a></li>
+                        <li><a href="">Hình thức thanh toán</a></li>
+                        <li><a href="">Phương thức đặt hàng</a></li>
+                        <li><a href="">Voucher/Ưu đãi</a></li>
+                        <li><a href="">Hướng dẫn sử dụng</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Giới thiệu</h3>
+                    <ul>
+                        <li><a href="">Về Website</a></li>
+                        <li><a href="">Đối tác</a></li>
+                        <li><a href="">Địa chỉ</a></li>
+                    </ul>
+                </div>
+                <div>
+                    <h3>Hotline:</h3>
+                    <p>0123456789</p>
+                    <h3>Liên Hệ:</h3>
+                    <p>Ngõ 583 Vũ Tông Phan</p>
+                    <div>
+                        <h3>Kết nối với chúng tôi:</h3>
+                        <div class="content">
+                            <div class="content-1"><a href=""><img src="Image/img Home/logo fb.png"
+                                        style="height: 50px"></a></div>
+                            <div class="content-1"><a href=""><img src="Image/img Home/logo ig.png"
+                                        style="height: 50px;"></a></div>
+                            <div class="content-1"><a href=""><img src="Image/img Home/logo tw.png"
+                                        style="height: 50px;"></a></div>
+                        </div>
+                    </div>
+                </div>
+
+                <div>
+                    <h3>Chấp nhận hình thức thanh toán:</h3>
+                    <div class="content">
+                        <div class="content-2"><a href=""><img src="Image/img Home/logo momo.png"
+                                    style="height: 70px;"></a></div>
+                        <div class="content-2"><a href=""><img src="Image/img Home/logo money.jfif"
+                                    style="height: 70px;"></a></div>
+                        <div class="content-2"><a href=""><img src="Image/img Home/visa.png" style="height: 50px;"></a>
+                        </div>
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+
+        <div class="content-3">
+            <h2 style="text-align:center; padding-top: 15px; padding-bottom: 7px;">TrungNamShoes.com</h2>
+            <p style="text-align: center;">Đẳng Cấp Giày Dép Hàng Đầu Việt Nam</p>
+        </div>
+
+    </div>
+</body>
+
+</html>
