@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Vietpro Mobile Shop - Administrator</title>
+<title>Trung Nam Shoes - Administrator</title>
 
 <link href="css/bootstrap.min.css" rel="stylesheet">
 <link href="css/datepicker3.css" rel="stylesheet">
@@ -81,7 +81,7 @@
 		}
 	}
 	else{
-		include_once('statistic.php');
+		include_once('static.php');
 	}
 	
 	
