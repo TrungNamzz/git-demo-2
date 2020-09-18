@@ -48,12 +48,10 @@
             	<nav>
                 	<div id="menu" class="collapse navbar-collapse">
                         <ul>
-                            <li class="menu-item"><a href="#">iPhone</a></li>
-                            <li class="menu-item"><a href="#">Samsung</a></li>
-                            <li class="menu-item"><a href="#">HTC</a></li>
-                            <li class="menu-item"><a href="#">Nokia</a></li>
-                            <li class="menu-item"><a href="#">Sony</a></li>
-                            <li class="menu-item"><a href="#">Blackberry</a></li>
+                            <li class="menu-item"><a href="#">Sneaker</a></li>
+                            <li class="menu-item"><a href="#">Boot</a></li>
+                            <li class="menu-item"><a href="#">Jordan</a></li>
+                            <li class="menu-item"><a href="#">Converse</a></li>
                         </ul>
                     </div>
                 </nav>
@@ -70,29 +68,21 @@
                     <li data-target="#slide" data-slide-to="1"></li>
                     <li data-target="#slide" data-slide-to="2"></li>
                     <li data-target="#slide" data-slide-to="3"></li>
-                    <li data-target="#slide" data-slide-to="4"></li>
-                    <li data-target="#slide" data-slide-to="5"></li>
                   </ul>
                 
                   <!-- The slideshow -->
                   <div class="carousel-inner">
                     <div class="carousel-item active">
-                      <img src="images/slide-1.png" alt="Vietpro Academy">
+                      <img src="" alt="TrungNam Shoes">
                     </div>
                     <div class="carousel-item">
-                      <img src="images/slide-2.png" alt="Vietpro Academy">
+                      <img src="" alt="TrungNam Shoes">
                     </div>
                      <div class="carousel-item">
-                      <img src="images/slide-3.png" alt="Vietpro Academy">
-                    </div>
-                     <div class="carousel-item">
-                      <img src="images/slide-4.png" alt="Vietpro Academy">
-                    </div>
-                     <div class="carousel-item">
-                      <img src="images/slide-5.png" alt="Vietpro Academy">
+                      <img src="" alt="TrungNam Shoes">
                     </div>
 					<div class="carousel-item">
-                      <img src="images/slide-6.png" alt="Vietpro Academy">
+                      <img src="" alt="TrungNam Shoes">
                     </div>
                   </div>
                 
@@ -158,23 +148,23 @@
         	<div id="logo-2" class="col-lg-3 col-md-6 col-sm-12">
             	<h2><a href="#"><img src="images/logo-footer.png"></a></h2>
                 <p>
-                	Vietpro Academy thành lập năm 2009. Chúng tôi đào tạo chuyên sâu trong 2 lĩnh vực là Lập trình Website & Mobile nhằm cung cấp cho thị trường CNTT Việt Nam những lập trình viên thực sự chất lượng, có khả năng làm việc độc lập, cũng như Team Work ở mọi môi trường đòi hỏi sự chuyên nghiệp cao. 
+                	TrungNamShoes thành lập năm 2019. Chúng tôi chuyên bán giày cao cấp đủ mẫu mã thể loại, phù hợp giá tiền.
                 </p>
             </div>
             <div id="address" class="col-lg-3 col-md-6 col-sm-12">
             	<h3>Địa chỉ</h3>
-                <p>B8A Võ Văn Dũng - Hoàng Cầu Đống Đa - Hà Nội</p>
+                <p>583 Vũ Tông Phan - Khương Đình - Thanh Xuân - Hà Nội</p>
                 <p>Số 25 Ngõ 178/71 - Tây Sơn Đống Đa - Hà Nội</p>
             </div>
             <div id="service" class="col-lg-3 col-md-6 col-sm-12">
             	<h3>Dịch vụ</h3>
-            	<p>Bảo hành rơi vỡ, ngấm nước Care Diamond</p>
-            	<p>Bảo hành Care X60 rơi vỡ ngấm nước vẫn Đổi mới</p>
+            	<p>Bảo hành, giặt, sấy khô, Custom</p>
+            	<p>Bảo hành giày cũ, đổi giày cũ lấy giày mới</p>
             </div>
             <div id="hotline" class="col-lg-3 col-md-6 col-sm-12">
             	<h3>Hotline</h3>
             	<p>Phone Sale: (+84) 0988 550 553</p>
-                <p>Email: vietpro.edu.vn@gmail.com</p>
+                <p>Email: Trungnamshoes@gmail.com</p>
             </div>
         </div>
     </div>
@@ -186,7 +176,7 @@
     	<div class="row">
         	<div class="col-lg-12 col-md-12 col-sm-12">
             	<p>
-                    2018 © Vietpro Academy. All rights reserved. Developed by Vietpro Software.
+                    2018 © TrungNam Shoes. All rights reserved. Developed by Nguyễn Trung Nam.
                 </p>
             </div>
         </div>

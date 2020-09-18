@@ -1,6 +1,8 @@
 <?php
-session_start();
-include_once('../config/connect.php');
+ if(!defined('TEMPLATE')){
+	die("Bạn không có quyền truy cập vào file này");
+}
+
 	if(isset($_POST['submit'])){
 		$mail = $_POST['mail'];
 		$pass = $_POST['pass'];

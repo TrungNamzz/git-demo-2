@@ -9,54 +9,54 @@
     <div class="cart-item row">
         <div class="cart-thumb col-lg-7 col-md-7 col-sm-12">
             <img src="images/product-1.png">
-            <h4>iPhone Xs Max 2 Sim - 256GB Gold</h4>
+            <h4>Nike Max Air 97 Silver</h4>
         </div> 
         
         <div class="cart-quantity col-lg-2 col-md-2 col-sm-12">
             <input type="number" id="quantity" class="form-control form-blue quantity" value="1" min="1">
         </div> 
-        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>32.990.000đ</b><a href="#">Xóa</a></div>    
+        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>800.000 VNĐ</b><a href="#">Xóa</a></div>    
     </div>  
     <div class="cart-item row">
         <div class="cart-thumb col-lg-7 col-md-7 col-sm-12">
             <img src="images/product-2.png">
-            <h4>iPhone Xs Max 2 Sim - 256GB Gold</h4>
+            <h4>Nike Air Force 1 Low White</h4>
         </div> 
         <div class="cart-quantity col-lg-2 col-md-2 col-sm-12">
             <input type="number" id="quantity" class="form-control form-blue quantity" value="1" min="1">
         </div> 
-        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>32.990.000đ</b><a href="#">Xóa</a></div>    
+        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>1.000.000VNĐ</b><a href="#">Xóa</a></div>    
     </div> 
     <div class="cart-item row">
         <div class="cart-thumb col-lg-7 col-md-7 col-sm-12">
             <img src="images/product-3.png">
-            <h4>iPhone Xs Max 2 Sim - 256GB Gold</h4>
+            <h4>Jordan Air 1 Leather</h4>
         </div> 
         <div class="cart-quantity col-lg-2 col-md-2 col-sm-12">
             <input type="number" id="quantity" class="form-control form-blue quantity" value="1" min="1">
         </div> 
-        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>32.990.000đ</b><a href="#">Xóa</a></div>    
+        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>1.200.000 VNĐ</b><a href="#">Xóa</a></div>    
     </div>
     <div class="cart-item row">
         <div class="cart-thumb col-lg-7 col-md-7 col-sm-12">
             <img src="images/product-4.png">
-            <h4>iPhone Xs Max 2 Sim - 256GB Gold</h4>
+            <h4>Jordan Air Royalty</h4>
         </div> 
         <div class="cart-quantity col-lg-2 col-md-2 col-sm-12">
             <input type="number" id="quantity" class="form-control form-blue quantity" value="1" min="1">
         </div> 
-        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>32.990.000đ</b><a href="#">Xóa</a></div>    
+        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>1.000.000 VNĐ</b><a href="#">Xóa</a></div>    
     </div>
     <div class="cart-item row">
         <div class="cart-thumb col-lg-7 col-md-7 col-sm-12">
             <img src="images/product-5.png">
-            <h4>iPhone Xs Max 2 Sim - 256GB Gold</h4>
+            <h4>Nike Air Jodan 1 - Offwhite</h4>
         </div> 
         <div class="cart-quantity col-lg-2 col-md-2 col-sm-12">
             <input type="number" id="quantity" class="form-control form-blue quantity" value="1" min="1">
         </div> 
         
-        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>32.990.000đ</b><a href="#">Xóa</a></div>    
+        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>900.000đ</b><a href="#">Xóa</a></div>    
     </div>
     
     <div class="row">
@@ -64,7 +64,7 @@
             <button id="update-cart" class="btn btn-success" type="submit" name="sbm">Cập nhật giỏ hàng</button>	
         </div> 
         <div class="cart-total col-lg-2 col-md-2 col-sm-12"><b>Tổng cộng:</b></div> 
-        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>88.970.000đ</b></div>
+        <div class="cart-price col-lg-3 col-md-3 col-sm-12"><b>4.900.000 VNĐ</b></div>
     </div>
     </form>
                
@@ -101,7 +101,7 @@
         <div class="by-now col-lg-6 col-md-6 col-sm-12">
             <a href="#">
                 <b>Trả góp Online</b>
-                <span>Vui lòng call (+84) 0988 550 553</span>
+                <span>Vui lòng call (+84) 0339 890 641</span>
             </a>
         </div>
     </div>

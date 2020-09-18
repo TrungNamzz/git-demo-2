@@ -5,14 +5,14 @@
             <img src="images/product-1.png">
         </div>
         <div id="product-details" class="col-lg-6 col-md-6 col-sm-12">
-            <h1>iPhone X - 64GB Silver</h1>
+            <h1>Saint Laurent Wyatt</h1>
             <ul>
                 <li><span>Bảo hành:</span> 12 Tháng</li>
-                <li><span>Đi kèm:</span> Hộp, sách, sạc, cáp, tai nghe</li>
-                <li><span>Tình trạng:</span> Máy Mới 100%</li>
-                <li><span>Khuyến Mại:</span> Dán Màn Hình 3 lớp</li>
-                <li id="price">Giá Bán (chưa bao gồm VAT)</li>
-                <li id="price-number">22.990.000đ</li>
+                <li><span>Đi kèm:</span> Hộp, Mã QR, Dây, Giấy tờ</li>
+                <li><span>Tình trạng:</span> Giày Mới 100%</li>
+                <li><span>Khuyến Mại:</span> Dán đế 2 lớp</li>
+                <li id="price">Giá Bán:</li>
+                <li id="price-number">3.500.000 VNĐ</li>
                 <li id="status">Còn hàng</li>
             </ul>
             <div id="add-cart"><a href="#">Mua ngay</a></div>
@@ -20,24 +20,12 @@
     </div>
     <div id="product-body" class="row">
         <div class="col-lg-12 col-md-12 col-sm-12">
-            <h3>Đánh giá về iPhone X 64GB</h3>
+            <h3>Đánh giá về giày Saint Laurent Wyatt</h3>
             <p>
-                Màn hình OLED có hỗ trợ HDR là một sự nâng cấp mới của Apple thay vì màn hình LCD với IPS được tìm thấy trên iPhone 8 và iPhone 8 Plus đem đến tỉ lệ tương phản cao hơn đáng kể là 1.000.000: 1, so với 1.300: 1 ( iPhone 8 Plus ) và 1.400: 1 ( iPhone 8 ).
+                Mang tông đen chủ đạo, phủ ngoài bởi lớp da mềm cao cấp, sang trọng.
             </p>
             <p>
-                Màn hình OLED mà Apple đang gọi màn hình Super Retina HD có thể hiển thị tông màu đen sâu hơn. Điều này được thực hiện bằng cách tắt các điểm ảnh được hiển thị màu đen còn màn hình LCD thông thường, những điểm ảnh đó được giữ lại. Không những thế, màn hình OLED có thể tiết kiệm pin đáng kể.
-            </p>
-            <p>
-                Cả ba mẫu iPhone mới đều có camera sau 12MP và 7MP cho camera trước, nhưng chỉ iPhone X và iPhone 8 Plus có thêm một cảm biến cho camera sau. Camera kép trên máy như thường lệ: một góc rộng và một tele. Vậy Apple đã tích hợp những gì vào camera của iPhone X?
-            </p>
-            <p>
-                Chống rung quang học (OIS) là một trong những tính năng được nhiều hãng điện thoại trên thế giới áp dụng. Đối với iPhone X, hãng tích hợp chống rung này cho cả hai camera, không như IPhone 8 Plus chỉ có OIS trên camera góc rộng nên camera tele vẫn rung và chất lượng bức hình không đảm bảo.
-            </p>
-            <p>
-                Thứ hai, ống kính tele của iPhone 8 Plus có khẩu độ f / 2.8, trong khi iPhone X có ống kính tele f / 2.2, tạo ra một đường cong nhẹ và có thể chụp thiếu sáng tốt hơn với ống kính tele trên iPhone X.
-            </p>
-            <p>
-                Portrait Mode là tính năng chụp ảnh xóa phông trước đây chỉ có với camera sau của iPhone 7 Plus, hiện được tích hợp trên cả iPhone 8 Plus và iPhone X. Tuy nhiên, nhờ sức mạnh của cảm biến trên mặt trước của iPhone X, Camera TrueDepth cũng có thể chụp với Potrait mode.
+                Thiết kế mũi tròn, buộc dây, đế cao su và form thanh mảnh ôm chân.
             </p>
         </div>
     </div>
@@ -71,45 +59,45 @@
             <div class="comment-item">
                 <ul>
                     <li><b>Nguyễn Văn A</b></li>
-                    <li>2018-01-03 20:40:10</li>
+                    <li>2020-01-03 </li>
                     <li>
-                        <p>Kiểu dáng đẹp, cảm ứng rất nhạy, cầm trên tay cảm giác không bị cấn. Chụp ảnh tương đối nét, chơi game rất phê. Nếu giá mềm một chút thì sẽ bán khá chạy. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
+                        <p>Kiểu dáng đẹp, chất liệu xịn, đeo cảm giác không bị cấn, ôm chân. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
                     </li>
                 </ul>
             </div>
             <div class="comment-item">
                 <ul>
-                    <li><b>Nguyễn Văn A</b></li>
-                    <li>2018-01-03 20:40:10</li>
+                    <li><b>Hoàng Phương Nam</b></li>
+                    <li>2018-01-03 </li>
                     <li>
-                        <p>Kiểu dáng đẹp, cảm ứng rất nhạy, cầm trên tay cảm giác không bị cấn. Chụp ảnh tương đối nét, chơi game rất phê. Nếu giá mềm một chút thì sẽ bán khá chạy. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
+                        <p>Kiểu dáng đẹp, chất liệu xịn, đeo cảm giác không bị cấn, ôm chân. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
                     </li>
                 </ul>
             </div>
             <div class="comment-item">
                 <ul>
-                    <li><b>Nguyễn Văn A</b></li>
-                    <li>2018-01-03 20:40:10</li>
+                    <li><b>Nguyễn Trung Nam</b></li>
+                    <li>2019-04-03 </li>
                     <li>
-                        <p>Kiểu dáng đẹp, cảm ứng rất nhạy, cầm trên tay cảm giác không bị cấn. Chụp ảnh tương đối nét, chơi game rất phê. Nếu giá mềm một chút thì sẽ bán khá chạy. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
+                        <p>Kiểu dáng đẹp, chất liệu xịn, đeo cảm giác không bị cấn, ôm chân. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
                     </li>
                 </ul>
             </div>
             <div class="comment-item">
                 <ul>
-                    <li><b>Nguyễn Văn A</b></li>
-                    <li>2018-01-03 20:40:10</li>
+                    <li><b>Nguyễn Viết Văn </b></li>
+                    <li>2018-01-03 </li>
                     <li>
-                        <p>Kiểu dáng đẹp, cảm ứng rất nhạy, cầm trên tay cảm giác không bị cấn. Chụp ảnh tương đối nét, chơi game rất phê. Nếu giá mềm một chút thì sẽ bán khá chạy. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
+                        <p>Kiểu dáng đẹp, chất liệu xịn, đeo cảm giác không bị cấn, ôm chân. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
                     </li>
                 </ul>
             </div>
             <div class="comment-item">
                 <ul>
-                    <li><b>Nguyễn Văn A</b></li>
-                    <li>2018-01-03 20:40:10</li>
+                    <li><b>Nguyễn Thị Hà</b></li>
+                    <li>2018-01-03 </li>
                     <li>
-                        <p>Kiểu dáng đẹp, cảm ứng rất nhạy, cầm trên tay cảm giác không bị cấn. Chụp ảnh tương đối nét, chơi game rất phê. Nếu giá mềm một chút thì sẽ bán khá chạy. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
+                        <p>Kiểu dáng đẹp, chất liệu xịn, đeo cảm giác không bị cấn, ôm chân. Một sản phẩm tốt mà mọi người có thể cân nhắc.</p>
                     </li>
                 </ul>
             </div>
